@@ -1,0 +1,17 @@
+Teks Input:
+Alam adalah sumber kehidupan bagi semua makhluk di bumi. Dari hutan yang lebat hingga laut yang luas, setiap aspek alam memberikan manfaat yang luar biasa bagi kehidupan kita. Hutan menghasilkan oksigen yang kita hirup, lautan memberikan ikan yang menjadi sumber protein, dan tanah menyediakan tempat bagi tumbuhnya berbagai macam tumbuhan. Namun, eksploitasi yang berlebihan dan perusakan ekosistem membuat alam menjadi semakin rusak. Penting bagi kita untuk menjaga keseimbangan ekosistem agar generasi mendatang tetap dapat menikmati kekayaan alam ini.
+
+Di dalam hutan, terdapat beragam jenis flora dan fauna yang hidup berdampingan. Setiap organisme memiliki peran unik dalam ekosistem, yang bersama-sama menjaga keberlangsungan alam. Pohon-pohon besar menyerap karbon dioksida, sedangkan hewan-hewan di hutan membantu penyebaran biji tanaman. Rantai makanan yang rumit menciptakan ekosistem yang seimbang, namun deforestasi dan perburuan liar mengancam keberadaan banyak spesies. Melestarikan hutan menjadi langkah penting dalam upaya pelestarian keanekaragaman hayati.
+
+Lautan merupakan bagian terbesar dari permukaan bumi, menyimpan berbagai kehidupan yang belum sepenuhnya terungkap. Dari terumbu karang yang berwarna-warni hingga paus yang megah, lautan adalah rumah bagi banyak makhluk yang sangat penting dalam siklus kehidupan di bumi. Selain menjadi habitat bagi makhluk laut, lautan juga mengatur iklim global dan menyediakan sumber daya bagi manusia. Namun, polusi laut yang semakin meningkat mengancam kelangsungan ekosistem laut. Upaya untuk mengurangi pencemaran laut menjadi sangat mendesak.
+
+Pegunungan memberikan manfaat luar biasa bagi kehidupan manusia dan alam sekitar. Selain sebagai sumber air bersih melalui sungai-sungai yang mengalir dari puncaknya, pegunungan juga menyimpan kekayaan mineral yang bernilai tinggi. Suhu yang lebih sejuk di pegunungan menciptakan lingkungan yang ideal bagi spesies tumbuhan dan hewan yang unik. Banyak masyarakat lokal yang hidup di sekitar pegunungan dan bergantung pada sumber daya alamnya. Penting bagi kita untuk menjaga kelestarian pegunungan agar sumber air dan ekosistem tetap terjaga.
+
+Kita semua memiliki tanggung jawab untuk menjaga kelestarian alam demi masa depan yang lebih baik. Mulai dari tindakan sederhana seperti membuang sampah pada tempatnya, mengurangi penggunaan plastik, hingga mendukung program konservasi lingkungan, semuanya berkontribusi pada upaya pelestarian alam. Melalui pendidikan lingkungan, generasi muda dapat belajar pentingnya menjaga alam sejak dini. Hanya dengan kesadaran kolektif dan tindakan nyata, kita dapat memastikan bahwa kekayaan alam ini tetap lestari dan dapat dinikmati oleh generasi yang akan datang.
+
+Hasil Perhitungan:
+Jumlah Kata: 363
+Jumlah Karakter: 2714
+Jumlah Paragraf: 5
+
+Kemunculan Kata 'alam': 8 kali
